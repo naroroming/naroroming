@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**naroroming/naroroming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### student: Nahyeon KIM
 🔭 I’m currently working on college of AI software.
 🌱 I’m currently learning c programming and arduino with C !!
 💬 Ask me about curious things!
